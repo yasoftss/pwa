@@ -3,7 +3,7 @@
   "short_name": "SISEP",
   "description": "Registro de incidentes, autocontrol y libro de turno para Agentes de Seguridad",
   "start_url": "/sisep.html",
-  "display": "standalone",
+  "display": "fullscreen",
   "theme_color": "#0a1628",
   "background_color": "#0a1628",
   "orientation": "portrait-primary",
@@ -60,5 +60,9 @@
       "url": "https://yasoftss.github.io/pwa/sisep.html",
       "id": "12"
     }
-  ]
+  ],
+  "lang": "es",
+  "share_target": {
+    "method": "GET"
+  }
 }
