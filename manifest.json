@@ -48,5 +48,17 @@
       "sizes": "512x512",
       "type": "image/png"
     }
+  ],
+  "dir": "auto",
+  "categories": [
+    "government"
+  ],
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://yasoftss.github.io/pwa/sisep.html",
+      "id": "12"
+    }
   ]
 }
